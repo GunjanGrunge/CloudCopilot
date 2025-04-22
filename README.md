@@ -199,4 +199,4 @@ The FastAPI backend provides automatic API documentation:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-![Mermaid Chart](https://www.mermaidchart.com/raw/acae59fa-2d16-4e51-9a86-66ea05021118?theme=light&version=v0.1&format=svg)
+![Mermaid Chart]([https://www.mermaidchart.com/raw/acae59fa-2d16-4e51-9a86-66ea05021118?theme=light&version=v0.1&format=svg](https://www.mermaidchart.com/raw/acae59fa-2d16-4e51-9a86-66ea05021118?theme=light&version=v0.1&format=svg))
